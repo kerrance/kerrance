@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**kerrance/kerrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kerri Mark Sharp.
 
-Here are some ideas to get you started:
+I am a British software engineer and web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find out more about me and my work on [my personal website](https://www.kerrisharp.com/), or connect with me on [LinkedIn](https://www.linkedin.com/in/kerri-sharp/).
+
+I am the founder of [Razor Sharp](https://razorsharp.digital/), where I offer Digital Handyman services, including website & app development, AI & automations and technical support.
+
+I also have a [digital playground](https://kerrance.github.io/kerrance/), an evolving space for experiments, writing and thoughts etc.
+
+Perhaps I can help you? Please email [hello@kerrisharp.com](mailto:hello@kerrisharp.com).
